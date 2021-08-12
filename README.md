@@ -1,8 +1,8 @@
 ### Woop 👋
 
 - 🔭 I’m currently working with serverless/node/typescript; 
-- 🌱 Trying out serverless-stack https://docs.serverless-stack.com
-
+- 🌱 Trying out aurora and serverless-stack https://docs.serverless-stack.com
+- ⚡ serverless all the things
 <!--
 **AndrewKeig/AndrewKeig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
