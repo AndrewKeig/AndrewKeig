@@ -1,7 +1,7 @@
 ### Woop 👋
 
 - 🔭 I’m currently working with blockchain, ethereum, ripple, ipfs
-- ⚡ ~~Serverless all the things
+- ⚡ ~~Serverless all the things~~
 - Ξ decentralise all the things
 <!--
 **AndrewKeig/AndrewKeig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
