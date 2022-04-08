@@ -1,10 +1,10 @@
 ### 👋
 
-- $ I’m currently working with blockchain, ethereum, nfts and ipfs
+- $ I’m currently working with bl◎ckchain, ΞtherΞum, nfts and ipfs
 - ⚡ ~~Serverless all the things~~
 - Ξ decentralise some of the things
 <!--
-**AndrewKeig/AndrewKeig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AndrewKeig/AndrewKeig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. ΔIRΔ$◎LΞ
 
 Here are some ideas to get you started:
 
