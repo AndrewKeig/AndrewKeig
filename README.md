@@ -1,6 +1,6 @@
 ### 👋
 
-- $ I’m currently working with blockchain, ethereum, ripple, nfts and ipfs
+- $ I’m currently working with blockchain, ethereum, nfts and ipfs
 - ⚡ ~~Serverless all the things~~
 - Ξ decentralise some of the things
 <!--
