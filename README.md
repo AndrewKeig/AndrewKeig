@@ -1,6 +1,6 @@
 ### 👋
 
-- $ I’m currently working with bl◎ckchain, Ξthereum, nfts and ipfs
+- $ I’m currently working with Serverless, AI, bl◎ckchain, Ξthereum
 - ⚡ Serverless all the things
 - Ξ decentralise some of the things
 <!--
