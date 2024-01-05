@@ -1,6 +1,6 @@
 ### Hey 👋
 
-Im director at [airasoul.com](http://airasoul.com), based in London, UK focused on technologies such as ⚡ Serverless, Node.js, React, AI, bl◎ckchain, Ξthereum
+I'm Andrew, a software developer and educator and director at [airasoul.com](http://airasoul.com), based in London, UK focused on technologies such as ⚡ Serverless, Node.js, React, AI, bl◎ckchain, Ξthereum
 
 ⚡ Serverless all the things, Ξ decentralise some of them
 
