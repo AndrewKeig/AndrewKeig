@@ -1,9 +1,10 @@
-### 👋
+### Hey 👋
 
-- I’m currently working at [airsoul.com](http://airasoul.com), using Serverless, GraphQl, AI, bl◎ckchain, Ξthereum
-- ⚡ Serverless all the things, Ξ decentralise some of them
+Im director at [airasoul.com](http://airasoul.com), using technologies such as Serverless, GraphQl, AI, bl◎ckchain, Ξthereum
 
-[airsoul.com](http://airasoul.com)
+⚡ Serverless all the things, Ξ decentralise some of them
+
+[airasoul.com](http://airasoul.com)
 
 <!--
 **AndrewKeig/AndrewKeig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. ΔIRΔ$◎LΞ
