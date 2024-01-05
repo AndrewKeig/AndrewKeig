@@ -26,3 +26,9 @@ Here are some ideas to get you started:
 [![Andrew's GitHub Stats](https://github-readme-stats.vercel.app/api?username=andrewkeig)](https://github.com/andrewkeig/github-readme-stats)
 
 [![Andrew's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=andrewkeig&hide_border=true)](https://git.io/streak-stats)
+
+<span>
+<a href="https://twitter.com/https://twitter.com/airasoul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/gantlaborde" height="30" width="30" /></a>
+
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/andrewkeig/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/andrewkeig/" height="30" width="30" /></a>
+</span>
