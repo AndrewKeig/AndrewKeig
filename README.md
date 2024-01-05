@@ -4,7 +4,7 @@ Im director at [airasoul.com](http://airasoul.com), based in London, UK focused 
 
 ⚡ Serverless all the things, Ξ decentralise some of them
 
-</a>Recent Blog Posts</h2>
+</h2>Recent Blog Posts</h2>
 <ul>
 <li><a href="https://airasoul.com/serverless-graphql-authentication-with-cognito">Serverless GraphQL authentication with AWS Cognito</a></li>
 </ul>
@@ -15,6 +15,7 @@ Im director at [airasoul.com](http://airasoul.com), based in London, UK focused 
 </ul>
 <h2><Contact Me</h2>
 <p>You can reach me at <a href="mailto:andrew.keig@gmail.com">andrew.keig@gmail.com</a>.</p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewkeig&layout=compact&hide=html" alt="andrewkeig" /></p>
 
