@@ -23,6 +23,7 @@ I'm Andrew, a software developer, educator and director at [airasoul.com](http:/
 <a href="https://linkedin.com/in/andrewkeig/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/andrewkeig/" height="30" width="30" /></a>
 </span>
 
+<h2>Stats</h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewkeig&layout=compact&hide=html" alt="andrewkeig" /></p>
 
 [![Andrew's GitHub Stats](https://github-readme-stats.vercel.app/api?username=andrewkeig)](https://github.com/andrewkeig/github-readme-stats)
