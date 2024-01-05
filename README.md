@@ -1,25 +1,20 @@
 ### Hey 👋
 
-Im director at [airasoul.com](http://airasoul.com), using technologies such as Serverless, Node.js, React, AI, bl◎ckchain, Ξthereum
+Im director at [airasoul.com](http://airasoul.com), based in London, UK focused on technologies such as ⚡ Serverless, Node.js, React, AI, bl◎ckchain, Ξthereum
 
 ⚡ Serverless all the things, Ξ decentralise some of them
 
-[airasoul.com](http://airasoul.com)
-
-<!--
-**AndrewKeig/AndrewKeig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. ΔIRΔ$◎LΞ
-
-Here are some ideas to get you started:
-
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</a>Recent Blog Posts</h2>
+<ul>
+<li><a href="https://airasoul.com/serverless-graphql-authentication-with-cognito">Serverless GraphQL authentication with AWS Cognito</a></li>
+</ul>
+<h2>Publications</h2>
+<ul>
+<li><a href="https://www.amazon.co.uk/Instant-RabbitMQ-Messaging-Application-Development-ebook/dp/B00CX2U2GA" rel="nofollow">Instant RabbitMQ Messaging Application Development </a></li>
+<li><a href="https://www.amazon.co.uk/Advanced-Express-Web-Application-Development-ebook/dp/B00GX9FFDE" rel="nofollow">Advanced Express Web Application Development</a></li>
+</ul>
+<h2><Contact Me</h2>
+<p>You can reach me at <a href="mailto:andrew.keig@gmail.com">andrew.keig@gmail.com</a>.</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewkeig&layout=compact&hide=html" alt="andrewkeig" /></p>
 
