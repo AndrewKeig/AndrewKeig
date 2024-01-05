@@ -7,6 +7,7 @@ I'm Andrew, a software developer, educator and director at [airasoul.com](http:/
 <h2>Recent Blog Posts</h2>
 <ul>
   <li><a href="https://airasoul.com/serverless-graphql-authentication-with-cognito">Serverless GraphQL authentication with AWS Cognito</a></li>
+  <li><a href="https://airasoul.com/serverless-graphql-with-appsync">Serverless GraphQL with AWS App Sync</a></li>
 </ul>
 
 <h2>Publications</h2>
@@ -15,7 +16,7 @@ I'm Andrew, a software developer, educator and director at [airasoul.com](http:/
 <li><a href="https://www.amazon.co.uk/Advanced-Express-Web-Application-Development-ebook/dp/B00GX9FFDE" rel="nofollow">Advanced Express Web Application Development</a></li>
 </ul>
 
-<h2><Contact Me</h2>
+<h2>Contact Me</h2>
 <p>You can reach me at <a href="mailto:andrew.keig@gmail.com">andrew.keig@gmail.com</a>.</p>
 <span>
 <a href="https://twitter.com/airasoul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/airasoul" height="30" width="30" /></a>
