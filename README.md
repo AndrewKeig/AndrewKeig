@@ -1,6 +1,6 @@
 ### Hey 👋
 
-Im director at [airasoul.com](http://airasoul.com), using technologies such as Serverless, Node.js, React, GraphQl, AI, bl◎ckchain, Ξthereum
+Im director at [airasoul.com](http://airasoul.com), using technologies such as Serverless, Node.js, React, AI, bl◎ckchain, Ξthereum
 
 ⚡ Serverless all the things, Ξ decentralise some of them
 
