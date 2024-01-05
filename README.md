@@ -18,4 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=andrewkeig&hide_border=true)](https://git.io/streak-stats)
+[![Andrew's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=andrewkeig&hide_border=true)](https://git.io/streak-stats)
+
+[![Andrew's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/andrewkeig/github-readme-stats)
