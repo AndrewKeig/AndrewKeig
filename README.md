@@ -1,8 +1,7 @@
 ### 👋
 
 - $ I’m currently working with Serverless, AI, bl◎ckchain, Ξthereum
-- ⚡ Serverless all the things
-- Ξ decentralise some of the things
+- ⚡ Serverless all the things, Ξ decentralise some of them
 <!--
 **AndrewKeig/AndrewKeig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. ΔIRΔ$◎LΞ
 
