@@ -21,7 +21,7 @@ I'm Andrew, a software developer, educator and director at [airasoul.com](http:/
 <h2>Contact Me</h2>
 <p>You can reach me at <a href="mailto:andrew.keig@gmail.com">andrew.keig@gmail.com</a>.</p>
 <span>
-<a href="https://twitter.com/airasoul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/airasoul" height="30" width="30" /></a>
+<!-- <a href="https://twitter.com/airasoul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/airasoul" height="30" width="30" /></a> -->
 <a href="https://linkedin.com/in/andrewkeig/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/andrewkeig/" height="30" width="30" /></a>
 </span>
 
