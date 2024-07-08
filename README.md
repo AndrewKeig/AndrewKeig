@@ -1,6 +1,6 @@
 ### Hey 👋
 
-I'm Andrew, a software developer, educator and director at [airasoul.com](http://airasoul.com), based in London, UK.  We design and engineer, scalable web and mobile applications using technologies such as ⚡ Serverless, Node.js, React, AI, bl◎ckchain, Ξthereum
+I'm Andrew, a software developer, educator and director at [airasoul.com](http://airasoul.com), based in London, UK.  We design and engineer, scalable web and mobile applications using technologies such as ⚡ Serverless, Node.js, React, AI and blockchain.
 
 ⚡ Serverless all the things, Ξ decentralise some of them
 
