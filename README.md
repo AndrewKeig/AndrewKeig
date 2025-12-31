@@ -2,10 +2,6 @@
 
 I'm Andrew, a software developer, educator and director at [airasoul.com](http://airasoul.com), based in London, UK.  We design and engineer, scalable web and mobile applications using technologies such as ⚡ Serverless, Node.js, React, AI and blockchain.
 
-⚡ Serverless all the things, Ξ decentralise some of them
-
-
-
 <h2>Recent Blog Posts</h2>
 <ul>
   <li><a href="https://airasoul.com/building-hypermedia-apps-with-htmx">Building Hypermedia Applications with htmx</a></li>
