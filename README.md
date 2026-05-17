@@ -4,6 +4,12 @@ I'm Andrew, a software developer, educator and director at [airasoul.com](http:/
 
 <h2>Recent Blog Posts</h2>
 <ul>
+  
+<li><a href="https://airasoul.com/audio-classification-training-drum-kit-classifier">Audio Classification: Training a Drum Kit Classifier</a></li>
+<li><a href="https://airasoul.com/working-with-audio-using-python">Working with Audio using Python</a></li>
+
+
+  <li><a href="https://airasoul.com/building-hypermedia-apps-with-htmx">Building Hypermedia Applications with htmx</a></li>
   <li><a href="https://airasoul.com/building-hypermedia-apps-with-htmx">Building Hypermedia Applications with htmx</a></li>
   <li><a href="https://airasoul.com/building-hypermedia-apps-with-elysiajs-react-and-htmx">Building Hypermedia Applications with elysiajs, react and htmx</a></li>
   <li><a href="https://airasoul.com/exploring-machine-learning-and-ai-with-hugging-face">Exploring Machine Learning and AI with Hugging Face</a></li>
